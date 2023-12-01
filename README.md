@@ -15,9 +15,7 @@ Ecommerce - Melhor do Sapato
 
 
 Cliente (CPF, Nome, Telefone, Rua, Nº , Bairro, Cep, Idade, Id_vendedor )  
-
 Pedido ( CPF, Nº_pedido, Data, Valor)  
-
 Cliente/Pedido ( CPF, Nº_pedido )  
 Vendedor ( Id_vendedor, Nome, Telefone )  
 Setor ( id,vendedor, nome )  
