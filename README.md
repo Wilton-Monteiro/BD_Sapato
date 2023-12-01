@@ -25,7 +25,7 @@ Produto/Fornecedor (Referência, Id_Fornecedor)
 
 
 
-##Modelo Lógico
+## Modelo Lógico
 
 ![Novo mural - Page 1 (2)](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/03278879-d929-407e-bafc-c97043499b97)
 
