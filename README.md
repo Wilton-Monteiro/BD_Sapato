@@ -14,8 +14,10 @@ Ecommerce - Melhor do Sapato
 ![Novo mural - Page 1 (3)](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/dcc74988-a18f-4bd7-91d5-10ed93a69e86)
 
 
-Cliente (CPF, Nome, Telefone, Rua, Nº , Bairro, Cep, Idade, Id_vendedor )
-Pedido ( CPF, Nº_pedido, Data, Valor)
+Cliente (CPF, Nome, Telefone, Rua, Nº , Bairro, Cep, Idade, Id_vendedor )  
+
+Pedido ( CPF, Nº_pedido, Data, Valor)  
+
 Cliente/Pedido ( CPF, Nº_pedido )
 Vendedor ( Id_vendedor, Nome, Telefone )
 Setor ( id,vendedor, nome )
