@@ -18,12 +18,12 @@ Cliente (CPF, Nome, Telefone, Rua, Nº , Bairro, Cep, Idade, Id_vendedor )
 
 Pedido ( CPF, Nº_pedido, Data, Valor)  
 
-Cliente/Pedido ( CPF, Nº_pedido )
-Vendedor ( Id_vendedor, Nome, Telefone )
-Setor ( id,vendedor, nome )
-Produto ( Referência, Cor, Tamanho, Preço_custo, Preço_venda, Lucro, Nº_pedido)
-Fornecedor (Id_Fornecedor, Nome, Telefone)
-Produto/Fornecedor (Referência, Id_Fornecedor)
+Cliente/Pedido ( CPF, Nº_pedido )  
+Vendedor ( Id_vendedor, Nome, Telefone )  
+Setor ( id,vendedor, nome )  
+Produto ( Referência, Cor, Tamanho, Preço_custo, Preço_venda, Lucro, Nº_pedido)  
+Fornecedor (Id_Fornecedor, Nome, Telefone)  
+Produto/Fornecedor (Referência, Id_Fornecedor)  
 
 
 
