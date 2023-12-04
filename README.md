@@ -53,5 +53,5 @@ Produto/Fornecedor (Referência, Id_Fornecedor)
 ## ANTES DO DELETE
 ![ANTESDELETE](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/b435005e-6531-4e26-94d5-1f04da73bca1)
 ## DELETE
-
+![DELETE](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/395e9484-9899-4e0b-91c5-ed51809ac6b4)
 ## DEPOIS DO UPDATE
