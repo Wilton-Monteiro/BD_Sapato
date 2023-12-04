@@ -59,3 +59,14 @@ Produto/Fornecedor (Referência, Id_Fornecedor)
 
 ## RELATÓRIOS
 
+![1SELECT](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/bbff3dec-671a-404a-adcf-09469d1a8f69)
+![2SELECT](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/90bb467f-554c-4b1c-a560-66b2eaa3a4a1)
+![3SELECT](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/4b3a0045-faac-4cf8-b6d0-1b523045fe47)
+![4SELECT](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/05d89fc2-e368-4538-b8d4-6387d31b9bb1)
+![5SELECT](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/4e84c7d7-1e50-4d74-9adc-a61b0532be20)
+![6SELECT](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/2e099970-5a5f-45f9-a54a-21c1c9d2ef7f)
+![7SELECT](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/f55ff7dc-07e7-4cef-be7c-384886dd8331)
+![8SELECT](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/88c834ad-6403-45d0-94a2-7e1d93d5fe06)
+![9SELECT](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/f0ccc602-ed26-46ab-a41d-24294d51033b)
+![10SELECT](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/831ca72c-89e0-4782-82e9-c3635b91c131)
+
