@@ -27,6 +27,8 @@ Produto/Fornecedor (Referência, Id_Fornecedor)
 
 ## Modelo Lógico
 
+![modelologico](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/affc7cb8-d215-46a3-9bae-214c491160af)
+
 
 
 ## CRUD
