@@ -14,8 +14,8 @@ Ecommerce - Melhor do Sapato
 ![Modeloconceitual](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/8dfbfc03-4eaa-41f2-93a9-73716afb19f7)
 
 
-Cliente (Id_cliente, Nome, Telefone, Rua, Bairro, Cep, data_nasc, Id_vendedor,Id_pedido )
-Email(Id_email, email, Id_cliente)
+Cliente (Id_cliente, Nome, Telefone, Rua, Bairro, Cep, data_nasc, Id_vendedor,Id_pedido )   
+Email(Id_email, email, Id_cliente)   
 Pedido ( Id_pedido, Data, Valor)    
 Vendedor ( Id_vendedor, Nome, Telefone )  
 Setor ( Id_setor, nome_setor )  
