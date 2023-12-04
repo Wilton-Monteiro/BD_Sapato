@@ -34,3 +34,7 @@ Produto/Fornecedor (Referência, Id_Fornecedor)
 ##CREAT
 
 ![CREAT](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/16891fc0-115e-4af8-9a72-6e9b29cee45d)
+
+## SELECT
+
+
