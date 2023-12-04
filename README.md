@@ -42,3 +42,5 @@ Produto/Fornecedor (Referência, Id_Fornecedor)
 ## UPDATE
 
 ![ANTESUPDATE](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/65244aec-9c8d-42d5-aba4-a8745b6a17b2)
+
+![UPDATE](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/322897a7-95f7-4f0b-89bf-625470cb43fd)
