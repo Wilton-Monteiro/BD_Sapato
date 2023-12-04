@@ -14,14 +14,14 @@ Ecommerce - Melhor do Sapato
 ![Modeloconceitual](https://github.com/Wilton-Monteiro/BD_Sapato/assets/145207587/8dfbfc03-4eaa-41f2-93a9-73716afb19f7)
 
 
-Cliente (CPF, Nome, Telefone, Rua, Nº , Bairro, Cep, Idade, Id_vendedor )  
-Pedido ( CPF, Nº_pedido, Data, Valor)  
-Cliente/Pedido ( CPF, Nº_pedido )  
+Cliente (Id_cliente, Nome, Telefone, Rua, Nº , Bairro, Cep, Idade, Id_vendedor )
+Email(Id_email, email, Id_cliente)
+Pedido ( Id_pedido, Data, Valor)    
 Vendedor ( Id_vendedor, Nome, Telefone )  
-Setor ( id,vendedor, nome )  
-Produto ( Referência, Cor, Tamanho, Preço_custo, Preço_venda, Lucro, Nº_pedido)  
+Setor ( Id_setor, nome_setor )  
+Produto ( Id_produto, Cor, Tamanho, Preço_custo, Preço_venda, Lucro, Id_pedido)  
 Fornecedor (Id_Fornecedor, Nome, Telefone)  
-Produto/Fornecedor (Referência, Id_Fornecedor)  
+Produto_Fornecedor (Id_produto, Id_Fornecedor)  
 
 
 
